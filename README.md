@@ -24,7 +24,9 @@
 - Arduino와  EKG-EMG 센서를 이용하여 제작 및 획득
 - Sin 및 Cos 값을 활용하여 오브젝트를 중심으로 1의 크기만큼 움직일 수 있도록 설정하여 아바타의 전진-후진을 구현 
 - 방향전환을 위해 Quaternion.Euler 함수를 사용하여 오일러각을 Rotation에 입력함으로써 아바타의 좌우 회전을 구현
+
 ![스크린샷 2024-01-24 143421](https://github.com/pgh-GORI/3-idots_eeg_emg/assets/102271662/d010b287-584c-489d-99a9-845d8cd97c95)
+
 ![스크린샷 2024-01-24 143515](https://github.com/pgh-GORI/3-idots_eeg_emg/assets/102271662/ecb839b8-801c-4aab-8675-aaa3dbf7be7b)
 
 <h2>기대 효과</h2>
